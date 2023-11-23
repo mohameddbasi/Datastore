@@ -1,0 +1,49 @@
+
+.bg{
+   background-color:beige;
+}
+
+.height-500{ 
+    height:500px;
+}
+
+.font-s{
+    font-size:20px;
+}
+
+.font-w{
+    font-weight: bold;
+}
+
+.p-10{
+    padding: 10px;
+}
+
+.p-20{
+    padding: 20px;
+}
+
+.mx-auto{
+    margin:auto;
+}
+
+
+
+.bg-litegreen{
+    background-color: rgb(150, 218, 150);
+}
+
+.bg-black{
+   color: black; 
+}
+
+.m-l{
+    margin-left:198px;
+}
+.m-r{
+    margin-right:198px;
+}
+
+.bg-gree{
+    background-color: rgb(6, 7, 6);
+}
